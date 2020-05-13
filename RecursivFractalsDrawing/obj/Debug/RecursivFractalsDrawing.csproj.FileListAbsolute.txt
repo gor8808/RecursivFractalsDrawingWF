@@ -1,0 +1,10 @@
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\bin\Debug\RecursivFractalsDrawing.exe.config
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\bin\Debug\RecursivFractalsDrawing.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\bin\Debug\RecursivFractalsDrawing.pdb
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.csprojAssemblyReference.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.Form1.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.Properties.Resources.resources
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.exe
+C:\Users\Dell\Desktop\Gor\C#\MIC\RecursivFractalsDrawing\RecursivFractalsDrawing\obj\Debug\RecursivFractalsDrawing.pdb
